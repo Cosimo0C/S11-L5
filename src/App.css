@@ -1,0 +1,12 @@
+.nav-dark {
+  background-color: black;
+}
+.btn.login-btn:hover {
+  background-color: white;
+  color: black;
+}
+.btn.signup-btn:hover {
+  color: white;
+  background-color: rgb(60, 211, 60);
+  border: 1px solid rgb(60, 211, 60);
+}
