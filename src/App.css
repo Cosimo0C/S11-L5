@@ -5,8 +5,28 @@
   background-color: white;
   color: black;
 }
+.btn.login-btn {
+  display: block;
+  border-radius: 50rem;
+  border: solid 1px white;
+  color: white;
+}
 .btn.signup-btn:hover {
   color: white;
   background-color: rgb(60, 211, 60);
   border: 1px solid rgb(60, 211, 60);
+}
+.btn.signup-btn {
+  display: block;
+  border-radius: 50rem;
+  background-color: white;
+  color: black;
+}
+.nav-dark {
+  background-color: black;
+}
+.btn.btngo {
+  background-color: black;
+  color: gray;
+  border: solid 1px gray;
 }

@@ -7,7 +7,7 @@ function App() {
     <>
       <Container fluid className="p-0">
         <Row>
-          <Col className="col-2">
+          <Col xs={5} md={4} lg={3} xl={2}>
             <MySidebar />
           </Col>
         </Row>
